@@ -1,0 +1,19 @@
+/**** For Backend packages ****/
+
+npm i express
+
+npm i mongoose
+
+npm i dotenv
+
+npm i nodemon -g // for globally
+after installation    ---> add in package.json file in scripts section
+        "dev": "nodemon index.js",
+        "start": "node index.js"
+
+/**********Authentication Libraries************/
+npm install jsonwebtoken
+npm install bcrypt
+
+/**** For Frontend packages ****/
+
